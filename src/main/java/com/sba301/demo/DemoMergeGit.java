@@ -13,5 +13,6 @@ public class DemoMergeGit {
             sum += i;
         }
         System.out.println("Sum of first 10 natural numbers is: " + sum);
+        System.out.println("Additional changes from main branch.");
     }
 }
