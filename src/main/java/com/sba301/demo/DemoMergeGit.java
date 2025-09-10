@@ -7,5 +7,6 @@ public class DemoMergeGit {
         System.out.println("Feature branch changes.");
         System.out.println("More changes from feature branch.");
         System.out.println("Final changes from feature branch.");
+        System.out.println("Changes from main branch.");
     }
 }
